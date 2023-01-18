@@ -253,6 +253,7 @@ h6 {
   align-items: center;
 }
 .hero-text {
+  text-align: center;
   width: 494px;
   height: 120px;
   font-style: normal;
